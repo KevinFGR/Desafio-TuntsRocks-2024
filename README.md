@@ -20,6 +20,8 @@
 
 ## Running the code:
 
+<a href='https://youtu.be/5VYC4XxgqHw'>Click here to watch the Video.</a>
+
 <ol>
   <li>Check you had installed correctly the Python and gspread</li>
   <li>Clone this repository in your computer</li>
