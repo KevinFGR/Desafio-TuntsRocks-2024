@@ -39,6 +39,12 @@
   <li>Wait the progam return the massage: "Worksheet successfully modified"</li>
 </ol>
 
+## GoogleSheet's access link:
+
+```
+https://docs.google.com/spreadsheets/d/13PW1hgkXhSs-qpwBvibQeXXT_q7cOWcPr3dAaV00k14/edit?usp=sharing
+```
+
 ## Possible exceptions:
 <p>If the code returns you a mensage like this ..</p>
 
