@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dulcet-fuze-413222",
+  "private_key_id": "34b2c6c28fa5a2ba3d36ac64beb61901eee27173",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCycq0DUNdeMIHk\njJD9gln5LbltYpJ0tcpWwuqwNueBlFPIJyaz2HW7GbBOyvfrXIo3FKNfu05kzzdS\ng4ekBR+RVuUcC0U59x090hu/OFegDKKTHQpz/HVvQC1D+ORolIL339ZehpaLUkfW\nR6S3JiV0V7dGHq0ckb5cNS7Pvh2j6Fi3zlHh929YU+jF8jZINBKByeI0PR8O5p/A\nj7k7bRl83O/5L+QupM/P63bgmbUf7aO2jcGjbVry9AAsn5qkv0PcHX899Pmhri9T\nGxLaL+40rxyd8ZkOVO7pv6t7gcoCRUGygE7MgQHP0ar/m7dNCjZ0od2fGsJk+/qy\nBnSScYlhAgMBAAECggEAE4Y1hNfbAIy5IYr5sCsLchZ9I8k1sfxT66M+71HKiaRz\neEJEW0gTNYntful5L7C71KP27hn9zUzYxjfq5tjCp/HEdomLJPjzI5jx/T2KZNIN\nFaCHTMJyDN6ONVItl32sSLeealA6d3rkrj6/eGR9k5mnTU487ZPKqqcM/KDV+GFc\nHPzjxD+Gmc0ynrRfhOvOxr0QHMfYiWfMFrcn7iZd9MkXjQi99QnUNyA0zDRvYF1H\n7FpxxAeSB5AXTZRO1BP83lp99hmhQe21rS+VOsZ9qpjo4VT+liHPO9gNP76OjX7T\n1hMx25w4wCnm6B6269v4BOLtF0VrIA0Y8enbcWCouQKBgQDq331JP2cp4OcRQzoP\nJcxs5CVMXVGMjecljGhK/VJ1WbBicTDl16egPl5xGhV1q68eCXj/7eF49477ZppA\n1ttzN6c57KiNqxPKpK6ZQincVOkofvKayUmetKOfLePWNRWO1KvVEVnizeCTcXvc\nreWBKeZ6wLGmhOUvAeW3zk7nhQKBgQDCf915xOqH7n97IrelIi3SHdF3xC2gj7sb\nyi6nsZtTG0zQt7N8BKHsQR4QYc+u1Ua0mfMae5KOj1a0/d9ZeBregBrKm2mKqi87\nANB2Asg8f7uMHO4JrAMSK4gB0Grn7cS99Ja7SV5Ef6R5LlmVFvZxZGdPJ4J/IKXa\nYQB30UmrLQKBgCb0xpz9jSjfCrRMSDb29/8foCgYWkxLxQjvTuUROzoHlD/fslKN\nAFqNvbBYuTJ5NWRwAcfBNuKPfQGptPAIMwHbOztaS2Kj+3Zi9iqpVLQcyUdUNv0B\nYdqW74SZYe7HgznbgFyoshXyO8t4ySiDF0vjHT1C9LQ/2pt/XxCrgV7ZAoGBAIuu\nfIYo7y30EEWEZ1MGutV9aKOUlhgLYRrSFrOED8KdhosWgqX8RbWABnFJbXdn38Fw\nFnDcciJDusd801xTryg/4/3BowhctFKxgQRfdyJLsYssc58qk4IHFUQIQ96QmYy6\nDU4voK2c5afJq7gwp4hDzRXBkCxwa+vrYgSqnzd5AoGAIYy9FOIOnZHYAnvOX9Zw\nOzCVuxnSlmSgDUkllOaAyXz/1ISwSMwTNPlrP1qyD0tjiu5YDzedMZjRqIEDiZm1\nmnQms/DtBYUc+EwO2aXmO5+PyGf6ZBdeeECJting1I/xoOFHIIaWZS0zFTk2nScP\nVSGKlHiC7ip4Vpiz0Ps/6lA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "credential-connection@dulcet-fuze-413222.iam.gserviceaccount.com",
+  "client_id": "110269993974309909176",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/credential-connection%40dulcet-fuze-413222.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
