@@ -20,7 +20,8 @@
 
 ## Running the code:
 
-<a href='https://youtu.be/5VYC4XxgqHw'>Click here to watch the Video.</a>
+[how_to_run.webm](https://github.com/KevinFGR/Desafio-TuntsRocks-2024/assets/109561598/6570b0d8-ddb0-42ee-ac7b-c666c1cafa0b)
+
 
 <ol>
   <li>Check you had installed correctly the Python and gspread</li>
